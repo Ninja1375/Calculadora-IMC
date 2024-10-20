@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Calculadora IMC](https://ninja1375.github.io/Calculadora-IMC/)**
+
 A **Calculadora de IMC** (Índice de Massa Corporal) é uma ferramenta simples que permite calcular o IMC de uma pessoa com base no seu peso e altura. O IMC é uma medida usada para avaliar se uma pessoa está com peso adequado, com sobrepeso, ou em estado de obesidade, utilizando uma fórmula padrão.
 
 ## Como funciona: ##
