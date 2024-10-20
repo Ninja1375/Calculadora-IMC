@@ -1,4 +1,4 @@
-A Calculadora de IMC (Índice de Massa Corporal) é uma ferramenta simples que permite calcular o IMC de uma pessoa com base no seu peso e altura. O IMC é uma medida usada para avaliar se uma pessoa está com peso adequado, com sobrepeso, ou em estado de obesidade, utilizando uma fórmula padrão.
+A **Calculadora de IMC** (Índice de Massa Corporal) é uma ferramenta simples que permite calcular o IMC de uma pessoa com base no seu peso e altura. O IMC é uma medida usada para avaliar se uma pessoa está com peso adequado, com sobrepeso, ou em estado de obesidade, utilizando uma fórmula padrão.
 
 ## Como funciona: ##
 **1 - Entrada de Dados:**
@@ -14,10 +14,10 @@ O resultado é calculado automaticamente quando o botão "Calcular IMC" é press
 **3 - Classificação:**
 
 Com base no valor do IMC, o usuário recebe uma classificação:
-Abaixo do peso: IMC < 18,5
-Peso normal: IMC entre 18,5 e 24,9
-Sobrepeso: IMC entre 25 e 29,9
-Obesidade: IMC ≥ 30
+**Abaixo do peso:** IMC < 18,5
+**Peso normal:** IMC entre 18,5 e 24,9
+**Sobrepeso:** IMC entre 25 e 29,9
+**Obesidade:** IMC ≥ 30
 
 **4 - Exibição do Resultado:**
 
