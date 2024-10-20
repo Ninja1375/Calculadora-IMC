@@ -18,9 +18,10 @@ Abaixo do peso: IMC < 18,5
 Peso normal: IMC entre 18,5 e 24,9
 Sobrepeso: IMC entre 25 e 29,9
 Obesidade: IMC ≥ 30
-Exibição do Resultado:
 
-O nome do utilizador é exibido junto com o valor do IMC e a sua classificação (ex: "Peso normal").
+## Exibição do Resultado: ##
+
+O nome do usuário é exibido junto com o valor do IMC e a sua classificação (ex: "Peso normal").
 Principais características:
 Interface amigável com um visual moderno e cores suaves.
 Responsividade: Adaptável a diferentes dispositivos, como telemóveis e tablets.
