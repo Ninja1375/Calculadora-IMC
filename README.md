@@ -25,6 +25,6 @@ O nome do usuário é exibido junto com o valor do IMC e a sua classificação (
 
 ## Principais características: ##
 Interface amigável com um visual moderno e cores suaves.
-Responsividade: Adaptável a diferentes dispositivos, como telemóveis e tablets.
+**Responsividade:** Adaptável a diferentes dispositivos, como telefones e tablets.
 Verifica se os dados inseridos são válidos antes de realizar o cálculo.
 Inclui o nome no resultado para uma interação mais pessoal.
