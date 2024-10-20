@@ -26,4 +26,3 @@ Interface amigável com um visual moderno e cores suaves.
 Responsividade: Adaptável a diferentes dispositivos, como telemóveis e tablets.
 Verifica se os dados inseridos são válidos antes de realizar o cálculo.
 Inclui o nome no resultado para uma interação mais pessoal.
-Para mais informações, podes consultar GPTOnline.
